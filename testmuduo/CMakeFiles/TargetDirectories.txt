@@ -1,0 +1,3 @@
+/home/wcf/code/testmuduo/CMakeFiles/server.dir
+/home/wcf/code/testmuduo/CMakeFiles/edit_cache.dir
+/home/wcf/code/testmuduo/CMakeFiles/rebuild_cache.dir
